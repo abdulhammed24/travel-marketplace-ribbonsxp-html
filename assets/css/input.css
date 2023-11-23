@@ -60,18 +60,6 @@ html {
     .dropdown-content-list {
         @apply text-sm font-semibold h-full text-white cursor-pointer capitalize flex flex-row items-center px-4 py-2 rounded-xl  bg-jr_blue 
     }
-    
-    .tablink{
-        @apply min-w-[35%] md:min-w-0 flex justify-center items-center transition-all duration-200 cursor-pointer p-4 relative border-b
-      }
-
-      .tablink-filter{
-        @apply text-jr_blue border-jr_blue
-      }
-
-      .most-rated-btn {
-        @apply px-3 py-[6px] rounded border border-transparent cursor-pointer text-xs md:text-sm text-white bg-[#e10a0a] text-center
-      }
   
 }
 
@@ -105,52 +93,6 @@ html {
     display: block;
 }
 
-/* hero-banner slider */
-.hero-banner .owl-prev {
-    background: linear-gradient(270deg,transparent,rgba(0,0,0,.38)) !important;
-    justify-content: flex-start;
-    left: 0;
-    padding-left: 27px !important;
-  }
-
-
-.hero-banner .owl-next {
-    background: linear-gradient(270deg,rgba(0,0,0,.38),transparent) !important;
-    justify-content: flex-end;
-    padding-right: 27px !important;
-    right: 0;
-}
-
-.hero-banner .owl-nav [class*=owl-] {
-    align-items: center;
-    color: #fff !important;
-    cursor: pointer;
-    display: flex !important;
-    height: 480px;
-    outline: none;
-    position: absolute;
-    top: 0;
-    width: 140px;
-    z-index: 1;
-    font-size: unset !important;
-    margin: 0 !important;
-    padding: 0;
-    background: inherit;
-    border-radius: 0 !important;
-}
-
-.hero-banner .owl-nav .owl-next [class*=owl-]:hover {
-    background: linear-gradient(270deg,rgba(0,0,0,.35),transparent) !important;
-}
-
-.hero-banner .owl-nav .owl-prev [class*=owl-]:hover {
-    background: linear-gradient(270deg,transparent,rgba(0,0,0,.35)) !important;
-}
-
-.hero-banner .owl-item .owl-lazy:not([src]), .hero-banner .owl-item .owl-lazy[src^=""] {
-    max-height: 100%;
-}
-
 
  /* review */
  .owl-carousel .owl-item img {
@@ -158,7 +100,7 @@ html {
     width: auto;
 }
 
-.most-rated .owl-item img {
+.travel-deals .owl-item img {
     width: 100%;
 }
 
@@ -190,6 +132,10 @@ html {
     top: 45%;
 }
 
+ .owl-carousel.owl-loaded.how-it-works {
+    display: block !important;
+}
+
 @media (min-width: 768px) {
     .ribbonsxp-carousel .owl-prev {
         left: -3rem;
@@ -216,13 +162,11 @@ html {
         height: 50px;
         top: 45%;
     }
+
+    .owl-carousel.owl-loaded.how-it-works {
+        display: none !important;
+    }
 }
-
-
-
-
-
-
 
 .ribbonsxp-carousel .owl-next:focus,
 .ribbonsxp-carousel .owl-next:hover,
@@ -288,47 +232,4 @@ html {
 
 
 
- /* faq */
-
- .faq-details {
-    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-    border: 2px solid transparent;
-  }
-  
-  .faq .cta-btn {
-    display: flex;
-    margin: 50px auto 20px;
-  }
-  
-  .toggle, .toggle-two {
-    width: 100%;
-    background-color: transparent;
-    align-items: center;
-    display: grid;
-    grid-template-columns: 2fr 0.2fr;
-    justify-content: space-between;
-    color: #151515;
-    border: none;
-    outline: none;
-    cursor: pointer;
-    text-align: left;
-  }
-  
-  .toggle-icon-btn {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    justify-self: end;
-  }
-
-  .content {
-    position: relative;
-    height: 0;
-    overflow: hidden;
-    transition: all 0.5s;
-    font-weight: 600;
-    font-size: 0.75rem;
-    line-height: 1rem;
-    color: #708090;
-    font-weight: 400;
-  }
+ 
