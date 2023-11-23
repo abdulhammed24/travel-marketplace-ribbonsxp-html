@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.3.5"
+  },
+  "scripts": {
+    "build": "tailwindcss -i ./assets/css/input.css -o ./assets/css/main.css",
+    "watch": "tailwindcss -i ./assets/css/input.css -o ./assets/css/main.css --watch"
+  },
+  "dependencies": {
+    "slick-carousel": "^1.8.1"
+  }
+}
