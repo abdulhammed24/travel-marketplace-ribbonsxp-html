@@ -132,6 +132,18 @@ html {
     top: 45%;
 }
 
+.ribbonsxp-carousel .owl-stage {
+    position: relative;
+    -ms-touch-action: pan-Y;
+    touch-action: manipulation;
+    -moz-backface-visibility: hidden;
+    display: flex;
+}
+
+.ribbonsxp-carousel .owl-item {
+   display: flex;
+}
+
  .owl-carousel.owl-loaded.how-it-works {
     display: block !important;
 }
