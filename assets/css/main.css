@@ -611,14 +611,13 @@ video {
   z-index: 50;
 }
 
+.m-\[2px\]{
+  margin: 2px;
+}
+
 .mx-auto{
   margin-left: auto;
   margin-right: auto;
-}
-
-.my-4{
-  margin-top: 1rem;
-  margin-bottom: 1rem;
 }
 
 .mb-2{
@@ -705,20 +704,16 @@ video {
   max-width: 18rem;
 }
 
-.max-w-\[300px\]{
-  max-width: 300px;
-}
-
 .max-w-full{
   max-width: 100%;
 }
 
-.flex-auto{
-  flex: 1 1 auto;
-}
-
 .flex-1{
   flex: 1 1 0%;
+}
+
+.flex-auto{
+  flex: 1 1 auto;
 }
 
 .cursor-pointer{
@@ -759,12 +754,6 @@ video {
 
 .overflow-hidden{
   overflow: hidden;
-}
-
-.truncate{
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
 }
 
 .rounded{
@@ -1041,10 +1030,6 @@ html {
   width: 100%;
 }
 
-.gallery .owl-item img {
-  width: 100%;
-}
-
 .ribbonsxp-carousel .owl-prev {
   left: -1rem;
 }
@@ -1085,12 +1070,12 @@ html {
 
 @media (min-width: 768px) {
   .ribbonsxp-carousel .owl-prev {
-    left: -3rem;
+    left: -2.5rem;
     right: auto;
   }
 
   .ribbonsxp-carousel .owl-next {
-    right: -3rem;
+    right: -2.5rem;
     left: auto;
   }
 
@@ -1177,8 +1162,18 @@ html {
     height: 50vh;
   }
 
+  .sm\:max-w-\[300px\]{
+    max-width: 300px;
+  }
+
   .sm\:grid-cols-3{
     grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .sm\:truncate{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
   }
 
   .sm\:py-14{
