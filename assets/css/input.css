@@ -103,6 +103,9 @@ html {
 .travel-deals .owl-item img {
     width: 100%;
 }
+.travel-packages .owl-item img {
+    width: 100%;
+}
 
 .ribbonsxp-carousel .owl-prev {
     left: -1rem;
