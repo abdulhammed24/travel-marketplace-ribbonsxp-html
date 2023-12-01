@@ -6,8 +6,10 @@ module.exports = {
       colors: {
         jr_lightBlack: "#151515",
         jr_blue: "#00a09a",
+        jr_lime: "#cf0",
         jr_grey: "#c2c2c2",
         jr_deepBlue: "#1b5755",
+        jr_deepLime: "#bbea00",
         jr_slateGray: "#708090",
         jr_neutral: "#f5f5f5",
         jr_green: "#00af27",
