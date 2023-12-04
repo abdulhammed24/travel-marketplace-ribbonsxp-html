@@ -28,15 +28,11 @@ html {
     }
   
     .nav-links {
-        @apply text-base capitalize font-semibold text-black cursor-pointer flex items-center justify-center gap-1 hover:underline
+        @apply px-4 py-1 text-base font-normal cursor-pointer [border-bottom:4px_solid_transparent] transition-all duration-300 ease-out
     }
-  
-    .pro-nav-links {
-        @apply text-sm md:text-base capitalize font-semibold text-white cursor-pointer flex items-center justify-center gap-1 hover:underline
-    }
-
+    
     .active-navLink {
-        @apply text-sm md:text-base font-semibold underline relative text-jr_lime
+        @apply border-b-jr_deepLime bg-[#e7e9de2b] rounded-t-lg text-jr_deepLime transition-all duration-500 ease-out
       }
 
 
@@ -64,6 +60,10 @@ html {
 }
 
 /* navbar  */
+
+.nav-links:not(.active-navLink):hover {
+    color: #bbea00;
+}
 
 .mobile {
     gap: 1.25rem;
@@ -242,3 +242,11 @@ html {
 
 
  
+/* deals */
+.deals-content{
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    -webkit-line-clamp: 3;
+
+}

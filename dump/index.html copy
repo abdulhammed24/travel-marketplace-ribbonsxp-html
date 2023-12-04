@@ -1,27 +1,23 @@
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>Book Cheap Flights, Hotels and Vacation Packages - FlyRibbons</title>
+    <title>#1 Holiday Travel and Tour Deals Marketplace in Africa - Ribbons Travel</title>
 
     <meta
       name="description"
-      content="
-      FlyRibbons by RibbonsXP Has The Best Prices on Domestic & International Flight Tickets. 
-      Book Now. FlyRibbons by RibbonsXP - Your Go-To Website For Cheap, Easy & Seamless Booking Experience..."
+      content="Discover travel deals and packages in your next holiday travel.
+      Compare and filter travel and tour packages and book with ease."
     />
 
     <meta
       name="keywords"
-      content="Cheap flights,online air ticket reservation,cheap flights from abuja to lagos,flight ticket
-       from lagos to london,tourist visa,nigeria to uk ticket price,visa schengen,work visa usa,airfare 
-       reservation,air booking online,air travel ticket prices,travelbeta,apply for visa,
-       RibbonsXP, Luxury Holidays, Cheap Holidays, Vacation Holidays, 
+      content="RibbonsXP, Luxury Holidays, Cheap Holidays, Vacation Holidays, 
     Travel clubs, Holidays Offer, Holiday Package On RibbonsXP, Holiday destinations, 
-    flash sales, beach holidays, hotels, africa, nigeria, RibbonsTravel
-       "
+    flash sales, beach holidays, hotels, africa, nigeria, RibbonsTravel"
     />
 
     <link rel="icon" href="/assets/images/travel-favicon.png" sizes="32x32" />
@@ -58,82 +54,11 @@
     </script>
   </head>
   <body>
-    <header class="pt-5">
-      <div class="container">
-        <nav class="pb-5 bg-transparent z-30 relative header">
-          <div class="flex justify-between items-center gap-8">
-            <a href="/">
-              <img class="w-36 sm:w-48" src="/assets/images/ribbonsxp.svg" alt="ribbonsxp logo" />
-            </a>
-
-            <!--toggle btn-->
-            <div class="open-btn block lg:hidden w-6 h-6">
-              <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h7" />
-              </svg>
-            </div>
-          </div>
-        </nav>
-
-        <ul class="hidden lg:flex w-full relative">
-          <a href="" class="relative h-full flex-shrink-0"
-            ><li class="nav-links active-navLink">
-              <span> Travel Package </span>
-            </li></a
-          ><a href="" class="relative h-full flex-shrink-0"
-            ><li class="nav-links">
-              <span> Flights </span>
-            </li></a
-          ><a href="" class="relative h-full flex-shrink-0"
-            ><li class="nav-links">
-              <span> Hotels </span>
-            </li></a
-          >
-        </ul>
-      </div>
-    </header>
-
-    <aside class="sidebar hidden fixed text-left z-50 left-0 bottom-0 bg-[#00000033] backdrop-blur-sm w-full h-full">
-      <div
-        class="relative overflow-x-auto horizontal-scroll max-w-[1230px] w-[85%] py-[30px] px-5 bg-[#fafafa] h-full flex flex-col max-w-[calc(100% - 3rem]"
-      >
-        <div class="flex justify-between items-center pb-[30px]">
-          <a href="/">
-            <img class="w-36 sm:w-48" src="/assets/images/ribbonsxp.svg" alt="ribbonsxp logo" />
-          </a>
-
-          <svg
-            class="close-btn lg:hidden w-6 h-6 self-center"
-            xmlns=" http://www.w3.org/2000/svg"
-            fill="none"
-            viewBox="0 0 24 24"
-            stroke="currentColor"
-          >
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
-          </svg>
-        </div>
-
-        <ul class="flex flex-col gap-5 text-sm capitalize font-bold w-fit">
-          <div>
-            <a href="/"> <div class="text-sm md:text-base">Travel Package</div></a>
-          </div>
-
-          <div>
-            <a href="/s"> <div class="text-sm md:text-base">Flights</div></a>
-          </div>
-
-          <div>
-            <a href="/"> <div class="text-sm md:text-base">Hotels</div></a>
-          </div>
-        </ul>
-      </div>
-    </aside>
-
     <section class="relative w-full h-[40vh] sm:h-[50vh]">
       <span>
         <img
           alt="www.travel.ribbonsxp.com"
-          src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/0bf66c180390079.656a790bcd1d8.jpg"
+          src="https://images.unsplash.com/flagged/photo-1579268351234-073f85929562?auto=format&fit=crop&q=80&w=1374&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           class="absolute inset-0 w-0 h-0 object-cover min-h-full min-w-full max-h-full max-w-full brightness-50 bg-jr_grey text-xs"
         />
       </span>
@@ -141,6 +66,209 @@
         <h1 class="text-4xl md:text-6xl font-bold md:w-[90%] text-white text-center z-10">
           200+ Cheap Holiday Packages For You
         </h1>
+      </div>
+    </section>
+
+    <section class="py-10 md:py-16">
+      <div class="container">
+        <center>
+          <div class="flex flex-wrap gap-5 justify-center">
+            <div
+              class="w-[45%] sm:w-1/4 lg:w-1/5 text-black transition-all duration-300 ease-out bg-[#c7c7c7] flex items-center rounded-xl relative overflow-hidden shadow-[#00000033_0px_0px_4px_0px]"
+            >
+              <a href="/country/kenya">
+                <img
+                  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/c5520c180390079.656674ddbb408.png"
+                  class="object-cover mx-auto"
+                  alt="Discover travel deals and packages in your next holiday on RibbonsTravel
+                  Compare and filter travel and tour packages and book with ease.
+                  | www.travel.ribbonsxp.com | ribbonsxp
+                  "
+                />
+              </a>
+            </div>
+
+            <div
+              class="w-[45%] sm:w-1/4 lg:w-1/5 text-black transition-all duration-300 ease-out bg-[#c7c7c7] flex items-center rounded-xl relative overflow-hidden shadow-[#00000033_0px_0px_4px_0px]"
+            >
+              <a href="/country/ghana">
+                <img
+                  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/0fb59b180390079.656674ddb816b.png"
+                  class="object-cover mx-auto"
+                  alt="Discover travel deals and packages in your next holiday on RibbonsTravel
+                  Compare and filter travel and tour packages and book with ease.
+                  | www.travel.ribbonsxp.com | ribbonsxp
+                  "
+                />
+              </a>
+            </div>
+
+            <div
+              class="w-[45%] sm:w-1/4 lg:w-1/5 text-black transition-all duration-300 ease-out bg-[#c7c7c7] flex items-center rounded-xl relative overflow-hidden shadow-[#00000033_0px_0px_4px_0px]"
+            >
+              <a href="/country/rwanda">
+                <img
+                  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/0dfe30180390079.656674ddb60ae.png"
+                  class="object-cover mx-auto"
+                  alt="Discover travel deals and packages in your next holiday on RibbonsTravel
+                  Compare and filter travel and tour packages and book with ease.
+                  | www.travel.ribbonsxp.com | ribbonsxp
+                  "
+                />
+              </a>
+            </div>
+
+            <div
+              class="w-[45%] sm:w-1/4 lg:w-1/5 text-black transition-all duration-300 ease-out bg-[#c7c7c7] flex items-center rounded-xl relative overflow-hidden shadow-[#00000033_0px_0px_4px_0px]"
+            >
+              <a href="/country/maldives">
+                <img
+                  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3b4c64180390079.656674ddb3947.png"
+                  class="object-cover mx-auto"
+                  alt="Discover travel deals and packages in your next holiday on RibbonsTravel
+                  Compare and filter travel and tour packages and book with ease.
+                  | www.travel.ribbonsxp.com | ribbonsxp
+                  "
+                />
+              </a>
+            </div>
+
+            <div
+              class="w-[45%] sm:w-1/4 lg:w-1/5 text-black transition-all duration-300 ease-out bg-[#c7c7c7] flex items-center rounded-xl relative overflow-hidden shadow-[#00000033_0px_0px_4px_0px]"
+            >
+              <a href="/country/namibia">
+                <img
+                  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/07d143180390079.656674ddba6eb.png"
+                  class="object-cover mx-auto"
+                  alt="Discover travel deals and packages in your next holiday on RibbonsTravel
+                  Compare and filter travel and tour packages and book with ease.
+                  | www.travel.ribbonsxp.com | ribbonsxp
+                  "
+                />
+              </a>
+            </div>
+
+            <div
+              class="w-[45%] sm:w-1/4 lg:w-1/5 text-black transition-all duration-300 ease-out bg-[#c7c7c7] flex items-center rounded-xl relative overflow-hidden shadow-[#00000033_0px_0px_4px_0px]"
+            >
+              <a href="/country/uganda">
+                <img
+                  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/9bba11180390079.656674ddb775c.png"
+                  class="object-cover mx-auto"
+                  alt="Discover travel deals and packages in your next holiday on RibbonsTravel
+                  Compare and filter travel and tour packages and book with ease.
+                  | www.travel.ribbonsxp.com | ribbonsxp
+                  "
+                />
+              </a>
+            </div>
+
+            <div
+              class="w-[45%] sm:w-1/4 lg:w-1/5 text-black transition-all duration-300 ease-out bg-[#c7c7c7] flex items-center rounded-xl relative overflow-hidden shadow-[#00000033_0px_0px_4px_0px]"
+            >
+              <a href="/country/morocco">
+                <img
+                  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/60c1aa180390079.656674ddbc050.png"
+                  class="object-cover mx-auto"
+                  alt="Discover travel deals and packages in your next holiday on RibbonsTravel
+                  Compare and filter travel and tour packages and book with ease.
+                  | www.travel.ribbonsxp.com | ribbonsxp
+                  "
+                />
+              </a>
+            </div>
+
+            <div
+              class="w-[45%] sm:w-1/4 lg:w-1/5 text-black transition-all duration-300 ease-out bg-[#c7c7c7] flex items-center rounded-xl relative overflow-hidden shadow-[#00000033_0px_0px_4px_0px]"
+            >
+              <a href="/country/lebanon">
+                <img
+                  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/909bb1180390079.656674ddbcb06.png"
+                  class="object-cover mx-auto"
+                  alt="Discover travel deals and packages in your next holiday on RibbonsTravel
+                  Compare and filter travel and tour packages and book with ease.
+                  | www.travel.ribbonsxp.com | ribbonsxp
+                  "
+                />
+              </a>
+            </div>
+
+            <div
+              class="w-[45%] sm:w-1/4 lg:w-1/5 text-black transition-all duration-300 ease-out bg-[#c7c7c7] flex items-center rounded-xl relative overflow-hidden shadow-[#00000033_0px_0px_4px_0px]"
+            >
+              <a href="/country/singapore">
+                <img
+                  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/4f4148180390079.656674ddb530b.png"
+                  class="object-cover mx-auto"
+                  alt="Discover travel deals and packages in your next holiday on RibbonsTravel
+                  Compare and filter travel and tour packages and book with ease.
+                  | www.travel.ribbonsxp.com | ribbonsxp
+                  "
+                />
+              </a>
+            </div>
+
+            <div
+              class="w-[45%] sm:w-1/4 lg:w-1/5 text-black transition-all duration-300 ease-out bg-[#c7c7c7] flex items-center rounded-xl relative overflow-hidden shadow-[#00000033_0px_0px_4px_0px]"
+            >
+              <a href="/country/egypt">
+                <img
+                  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/25ff99180390079.656674ddb908d.png"
+                  class="object-cover mx-auto"
+                  alt="Discover travel deals and packages in your next holiday on RibbonsTravel
+                  Compare and filter travel and tour packages and book with ease.
+                  | www.travel.ribbonsxp.com | ribbonsxp
+                  "
+                />
+              </a>
+            </div>
+
+            <div
+              class="w-[45%] sm:w-1/4 lg:w-1/5 text-black transition-all duration-300 ease-out bg-[#c7c7c7] flex items-center rounded-xl relative overflow-hidden shadow-[#00000033_0px_0px_4px_0px]"
+            >
+              <a href="/country/mauritus">
+                <img
+                  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/410b98180390079.656674ddb45fe.png"
+                  class="object-cover mx-auto"
+                  alt="Discover travel deals and packages in your next holiday on RibbonsTravel
+                  Compare and filter travel and tour packages and book with ease.
+                  | www.travel.ribbonsxp.com | ribbonsxp
+                  "
+                />
+              </a>
+            </div>
+
+            <div
+              class="w-[45%] sm:w-1/4 lg:w-1/5 text-black transition-all duration-300 ease-out bg-[#c7c7c7] flex items-center rounded-xl relative overflow-hidden shadow-[#00000033_0px_0px_4px_0px]"
+            >
+              <a href="/country/jordan">
+                <img
+                  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/44117c180390079.656674ddb6adb.png"
+                  class="object-cover mx-auto"
+                  alt="Discover travel deals and packages in your next holiday on RibbonsTravel
+                  Compare and filter travel and tour packages and book with ease.
+                  | www.travel.ribbonsxp.com | ribbonsxp
+                  "
+                />
+              </a>
+            </div>
+
+            <div
+              class="w-[45%] sm:w-1/4 lg:w-1/5 text-black transition-all duration-300 ease-out bg-[#c7c7c7] flex items-center rounded-xl relative overflow-hidden shadow-[#00000033_0px_0px_4px_0px]"
+            >
+              <a href="/country/tanzania">
+                <img
+                  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/1e5107180390079.656674ddb9a83.png"
+                  class="object-cover mx-auto"
+                  alt="Discover travel deals and packages in your next holiday on RibbonsTravel
+                  Compare and filter travel and tour packages and book with ease.
+                  | www.travel.ribbonsxp.com | ribbonsxp
+                  "
+                />
+              </a>
+            </div>
+          </div>
+        </center>
       </div>
     </section>
 
@@ -162,8 +290,8 @@
                 class="min-w-full text-black transition-all duration-300 ease-out bg-[#c7c7c7] flex items-center rounded-t-xl relative p-0 overflow-hidden shadow-[#00000033_0px_0px_4px_0px]"
               >
                 <img
-                  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f9a197180390079.656a586e77c88.jpg"
-                  class="w-full min-h-[1px] block max-w-full h-[250px] lg:h-[300px] object-cover text-xs"
+                  src="https://res.cloudinary.com/dndntw861/image/upload/v1701356785/travels-ribbonsxp/301181183_736277317435268_7015600654805006842_n_iuy9uk.jpg"
+                  class="w-full min-h-[1px] block max-w-full h-auto lg:h-[300px] object-cover text-xs"
                   alt="Discover travel deals and packages in your next holiday on RibbonsTravel
                      Compare and filter travel and tour packages and book with ease.
                      | www.travel.ribbonsxp.com | ribbonsxp
@@ -171,7 +299,7 @@
                 />
               </div>
 
-              <div class="w-full grid gap-4 p-4">
+               <div class="w-full grid gap-4 p-4 ">
                 <div class="flex justify-between pb-2 w-full h-6 items-center">
                   <div class="flex justify-center items-center -ml-1">
                     <div class="flex relative items-center" style="min-width: 106px">
@@ -184,14 +312,15 @@
                     <p class="text-base sm:text-lg font-extrabold text-black">4.6</p>
                   </div>
                 </div>
-
                 <div class="flex gap-3 items-center justify-between flex-wrap h-fit">
                   <h2 class="text-black text-sm md:text-base font-black flex">
                     <span class="sm:max-w-[250px] sm:truncate inline-block">Experience Nairobi & Dubia</span>
                   </h2>
+
+                  <h4 class="text-xs md:text-sm text-black font-normal deals-content">Direct Flight</h4>
                 </div>
 
-                <div class="flex h-10 flex-wrap w-full justify-start text-black">
+              <div class="flex h-10 flex-wrap w-full justify-start text-black">
                   <div class="inline-flex whitespace-nowrap items-center">
                     <span class="inline-flex"
                       ><span class="inline-flex whitespace-nowrap items-center"
@@ -231,8 +360,8 @@
                 </div>
 
                 <div class="flex gap-3 items-center justify-between flex-wrap h-fit">
-                  <h3 class="text-black text-sm md:text-base font-black w-full">Total cost: from &#8358;2,000,000</h3>
-                  <button
+                  <h3 class="text-black text-sm md:text-base font-black">Total cost: from &#8358;2,000,000</h3>
+                 <button
                     class="text-black bg-jr_lime text-center w-full px-3 py-[6px] rounded border border-transparent"
                   >
                     <span class="text-xs md:text-sm font-semibold"> View Deal </span>
@@ -250,8 +379,8 @@
                 class="min-w-full text-black transition-all duration-300 ease-out bg-[#c7c7c7] flex items-center rounded-t-xl relative p-0 overflow-hidden shadow-[#00000033_0px_0px_4px_0px]"
               >
                 <img
-                  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a902fa180390079.656a586e7de47.jpg"
-                  class="w-full min-h-[1px] block max-w-full h-[250px] lg:h-[300px] object-cover text-xs"
+                  src="https://res.cloudinary.com/dndntw861/image/upload/v1701198002/travels-ribbonsxp/390955834_694109695934100_3819779569548408323_n_tybzst.jpg"
+                  class="w-full min-h-[1px] block max-w-full h-auto lg:h-[300px] object-cover text-xs"
                   alt="Discover travel deals and packages in your next holiday on RibbonsTravel
                   Compare and filter travel and tour packages and book with ease.
                   | www.travel.ribbonsxp.com | ribbonsxp
@@ -259,7 +388,7 @@
                 />
               </div>
 
-              <div class="w-full grid gap-4 p-4">
+               <div class="w-full grid gap-4 p-4 ">
                 <div class="flex justify-between pb-2 w-full h-6 items-center">
                   <div class="flex justify-center items-center -ml-1">
                     <div class="flex relative items-center" style="min-width: 106px">
@@ -276,9 +405,11 @@
                   <h2 class="text-black text-sm md:text-base font-black flex">
                     <span class="sm:max-w-[250px] sm:truncate inline-block">Magical Egypt </span>
                   </h2>
+
+                  <h4 class="text-xs md:text-sm text-black font-normal deals-content">Single Getaway</h4>
                 </div>
 
-                <div class="flex h-10 flex-wrap w-full justify-start text-black">
+              <div class="flex h-10 flex-wrap w-full justify-start text-black">
                   <div class="inline-flex whitespace-nowrap items-center">
                     <span class="inline-flex"
                       ><span class="inline-flex whitespace-nowrap items-center"
@@ -320,7 +451,7 @@
 
                 <div class="flex gap-3 items-center justify-between flex-wrap h-fit">
                   <h3 class="text-black text-sm md:text-base font-black">Total cost: from &#8358;1,950,000</h3>
-                  <button
+                 <button
                     class="text-black bg-jr_lime text-center w-full px-3 py-[6px] rounded border border-transparent"
                   >
                     <span class="text-xs md:text-sm font-semibold"> View Deal </span>
@@ -338,8 +469,8 @@
                 class="min-w-full text-black transition-all duration-300 ease-out bg-[#c7c7c7] flex items-center rounded-t-xl relative p-0 overflow-hidden shadow-[#00000033_0px_0px_4px_0px]"
               >
                 <img
-                  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/020bd8180390079.656a586e79918.jpg"
-                  class="w-full min-h-[1px] block max-w-full h-[250px] lg:h-[300px] object-cover text-xs"
+                  src="https://res.cloudinary.com/dndntw861/image/upload/v1701354923/travels-ribbonsxp/275057439_1115710252521024_6174226313781068397_n_g4f9dd.jpg"
+                  class="w-full min-h-[1px] block max-w-full h-auto lg:h-[300px] object-cover text-xs"
                   alt="Discover travel deals and packages in your next holiday on RibbonsTravel
                   Compare and filter travel and tour packages and book with ease.
                   | www.travel.ribbonsxp.com | ribbonsxp
@@ -347,7 +478,7 @@
                 />
               </div>
 
-              <div class="w-full grid gap-4 p-4">
+               <div class="w-full grid gap-4 p-4 ">
                 <div class="flex justify-between pb-2 w-full h-6 items-center">
                   <div class="flex justify-center items-center -ml-1">
                     <div class="flex relative items-center" style="min-width: 106px">
@@ -364,9 +495,11 @@
                   <h2 class="text-black text-sm md:text-base font-black flex">
                     <span class="sm:max-w-[250px] sm:truncate inline-block">Accra City Tour </span>
                   </h2>
+
+                  <h4 class="text-xs md:text-sm text-black font-normal deals-content">Single Getaway</h4>
                 </div>
 
-                <div class="flex h-10 flex-wrap w-full justify-start text-black">
+              <div class="flex h-10 flex-wrap w-full justify-start text-black">
                   <div class="inline-flex whitespace-nowrap items-center">
                     <span class="inline-flex"
                       ><span class="inline-flex whitespace-nowrap items-center"
@@ -406,7 +539,7 @@
 
                 <div class="flex gap-3 items-center justify-between flex-wrap h-fit">
                   <h3 class="text-black text-sm md:text-base font-black">Flight cost: from &#8358;300,000</h3>
-                  <button
+                 <button
                     class="text-black bg-jr_lime text-center w-full px-3 py-[6px] rounded border border-transparent"
                   >
                     <span class="text-xs md:text-sm font-semibold"> View Deal </span>
@@ -424,8 +557,8 @@
                 class="min-w-full text-black transition-all duration-300 ease-out bg-[#c7c7c7] flex items-center rounded-t-xl relative p-0 overflow-hidden shadow-[#00000033_0px_0px_4px_0px]"
               >
                 <img
-                  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/07cbcb180390079.656a586e7d136.jpg"
-                  class="w-full min-h-[1px] block max-w-full h-[250px] lg:h-[300px] object-cover text-xs"
+                  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/93df99180390079.655fde31ddcbf.jpeg"
+                  class="w-full min-h-[1px] block max-w-full h-auto lg:h-[300px] object-cover text-xs"
                   alt="Discover travel deals and packages in your next holiday on RibbonsTravel
                   Compare and filter travel and tour packages and book with ease.
                   | www.travel.ribbonsxp.com | ribbonsxp
@@ -433,7 +566,7 @@
                 />
               </div>
 
-              <div class="w-full grid gap-4 p-4">
+               <div class="w-full grid gap-4 p-4 ">
                 <div class="flex justify-between pb-2 w-full h-6 items-center">
                   <div class="flex justify-center items-center -ml-1">
                     <div class="flex relative items-center" style="min-width: 106px">
@@ -450,9 +583,11 @@
                   <h2 class="text-black text-sm md:text-base font-black flex">
                     <span class="sm:max-w-[250px] sm:truncate inline-block">3 NIGHTS JORDAN PACKAGE</span>
                   </h2>
+
+                  <h4 class="text-xs md:text-sm text-black font-normal deals-content">Single Getaway</h4>
                 </div>
 
-                <div class="flex h-10 flex-wrap w-full justify-start text-black">
+              <div class="flex h-10 flex-wrap w-full justify-start text-black">
                   <div class="inline-flex whitespace-nowrap items-center">
                     <span class="inline-flex"
                       ><span class="inline-flex whitespace-nowrap items-center"
@@ -494,7 +629,7 @@
                 <div class="flex gap-3 items-center justify-between flex-wrap h-fit">
                   <h3 class="text-black text-sm md:text-base font-black">Experiences cost: &#8358;400,000</h3>
                   <h3 class="text-black text-sm md:text-base font-black">Flight cost: from &#8358;300,000</h3>
-                  <button
+                 <button
                     class="text-black bg-jr_lime text-center w-full px-3 py-[6px] rounded border border-transparent"
                   >
                     <span class="text-xs md:text-sm font-semibold"> View Deal </span>
@@ -512,8 +647,8 @@
                 class="min-w-full text-black transition-all duration-300 ease-out bg-[#c7c7c7] flex items-center rounded-t-xl relative p-0 overflow-hidden shadow-[#00000033_0px_0px_4px_0px]"
               >
                 <img
-                  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e8cc5e180390079.656a586e7a78d.jpeg"
-                  class="w-full min-h-[1px] block max-w-full h-[250px] lg:h-[300px] object-cover text-xs"
+                  src="https://res.cloudinary.com/dndntw861/image/upload/v1701357252/travels-ribbonsxp/368390874_17968817525598369_2339721660576342984_n_ajdish.jpg"
+                  class="w-full min-h-[1px] block max-w-full h-auto lg:h-[300px] object-cover text-xs"
                   alt="Discover travel deals and packages in your next holiday on RibbonsTravel
                  Compare and filter travel and tour packages and book with ease.
                  | www.travel.ribbonsxp.com | ribbonsxp
@@ -521,7 +656,7 @@
                 />
               </div>
 
-              <div class="w-full grid gap-4 p-4">
+               <div class="w-full grid gap-4 p-4 ">
                 <div class="flex justify-between pb-2 w-full h-6 items-center">
                   <div class="flex justify-center items-center -ml-1">
                     <div class="flex relative items-center" style="min-width: 106px">
@@ -541,10 +676,10 @@
                     >
                   </h2>
 
-                  <!-- <h4 class="text-xs md:text-sm text-black font-normal deals-content">Direct Flight</h4> -->
+                  <h4 class="text-xs md:text-sm text-black font-normal deals-content">Direct Flight</h4>
                 </div>
 
-                <div class="flex h-10 flex-wrap w-full justify-start text-black">
+              <div class="flex h-10 flex-wrap w-full justify-start text-black">
                   <div class="inline-flex whitespace-nowrap items-center">
                     <span class="inline-flex"
                       ><span class="inline-flex whitespace-nowrap items-center"
@@ -586,7 +721,7 @@
 
                 <div class="flex gap-3 items-center justify-between flex-wrap h-fit">
                   <h3 class="text-black text-sm md:text-base font-black">Total cost: from &#8358;2,000,000</h3>
-                  <button
+                 <button
                     class="text-black bg-jr_lime text-center w-full px-3 py-[6px] rounded border border-transparent"
                   >
                     <span class="text-xs md:text-sm font-semibold"> View Deal </span>
@@ -604,8 +739,8 @@
                 class="min-w-full text-black transition-all duration-300 ease-out bg-[#c7c7c7] flex items-center rounded-t-xl relative p-0 overflow-hidden shadow-[#00000033_0px_0px_4px_0px]"
               >
                 <img
-                  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/991d1c180390079.656a586e77173.jpg"
-                  class="w-full min-h-[1px] block max-w-full h-[250px] lg:h-[300px] object-cover text-xs"
+                  src="https://res.cloudinary.com/dndntw861/image/upload/v1701183287/travels-ribbonsxp/403735805_18236401009246614_9211483411407660935_n.jpg_vohfgk.jpg"
+                  class="w-full min-h-[1px] block max-w-full h-auto lg:h-[300px] object-cover text-xs"
                   alt="Discover travel deals and packages in your next holiday on RibbonsTravel
                   Compare and filter travel and tour packages and book with ease.
                   | www.travel.ribbonsxp.com | ribbonsxp
@@ -613,7 +748,7 @@
                 />
               </div>
 
-              <div class="w-full grid gap-4 p-4">
+               <div class="w-full grid gap-4 p-4 ">
                 <div class="flex justify-between pb-2 w-full h-6 items-center">
                   <div class="flex justify-center items-center -ml-1">
                     <div class="flex relative items-center" style="min-width: 106px">
@@ -630,9 +765,11 @@
                   <h2 class="text-black text-sm md:text-base font-black flex">
                     <span class="sm:max-w-[250px] sm:truncate inline-block">Holiday in Lebanon</span>
                   </h2>
+
+                  <h4 class="text-xs md:text-sm text-black font-normal deals-content">Single Getaway</h4>
                 </div>
 
-                <div class="flex h-10 flex-wrap w-full justify-start text-black">
+              <div class="flex h-10 flex-wrap w-full justify-start text-black">
                   <div class="inline-flex whitespace-nowrap items-center">
                     <span class="inline-flex"
                       ><span class="inline-flex whitespace-nowrap items-center"
@@ -682,7 +819,7 @@
                 <div class="flex gap-3 items-center justify-between flex-wrap h-fit">
                   <h3 class="text-black text-sm md:text-base font-black">Experiences cost: &#8358;200,000</h3>
                   <h3 class="text-black text-sm md:text-base font-black">Flight cost: from &#8358;300,000</h3>
-                  <button
+                 <button
                     class="text-black bg-jr_lime text-center w-full px-3 py-[6px] rounded border border-transparent"
                   >
                     <span class="text-xs md:text-sm font-semibold"> View Deal </span>
@@ -700,8 +837,8 @@
                 class="min-w-full text-black transition-all duration-300 ease-out bg-[#c7c7c7] flex items-center rounded-t-xl relative p-0 overflow-hidden shadow-[#00000033_0px_0px_4px_0px]"
               >
                 <img
-                  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/dd5d5a180390079.656a586e7c29e.jpg"
-                  class="w-full min-h-[1px] block max-w-full h-[250px] lg:h-[300px] object-cover text-xs"
+                  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/810d6d180390079.656658c7e3e1f.jpeg"
+                  class="w-full min-h-[1px] block max-w-full h-auto lg:h-[300px] object-cover text-xs"
                   alt="Discover travel deals and packages in your next holiday on RibbonsTravel
                         Compare and filter travel and tour packages and book with ease.
                         | www.travel.ribbonsxp.com | ribbonsxp |
@@ -710,7 +847,7 @@
                 />
               </div>
 
-              <div class="w-full grid gap-4 p-4">
+               <div class="w-full grid gap-4 p-4 ">
                 <div class="flex justify-between pb-2 w-full h-6 items-center">
                   <div class="flex justify-center items-center -ml-1">
                     <div class="flex relative items-center" style="min-width: 106px">
@@ -729,9 +866,11 @@
                       >Experience a Magical Winter Honeymoon in the Maldives! 💙</span
                     >
                   </h2>
+
+                  <h4 class="text-xs md:text-sm text-black font-normal deals-content">Single Getaway</h4>
                 </div>
 
-                <div class="flex h-10 flex-wrap w-full justify-start text-black">
+              <div class="flex h-10 flex-wrap w-full justify-start text-black">
                   <div class="inline-flex whitespace-nowrap items-center">
                     <span class="inline-flex"
                       ><span class="inline-flex whitespace-nowrap items-center"
@@ -773,7 +912,7 @@
                 <div class="flex gap-3 items-center justify-between flex-wrap h-fit">
                   <h3 class="text-black text-sm md:text-base font-black">Experiences cost: &#8358;200,000</h3>
                   <h3 class="text-black text-sm md:text-base font-black">Flight cost: from &#8358;300,000</h3>
-                  <button
+                 <button
                     class="text-black bg-jr_lime text-center w-full px-3 py-[6px] rounded border border-transparent"
                   >
                     <span class="text-xs md:text-sm font-semibold"> View Deal </span>
@@ -791,8 +930,8 @@
                 class="min-w-full text-black transition-all duration-300 ease-out bg-[#c7c7c7] flex items-center rounded-t-xl relative p-0 overflow-hidden shadow-[#00000033_0px_0px_4px_0px]"
               >
                 <img
-                  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fcd858180390079.656a586e75a2b.jpg"
-                  class="w-full min-h-[1px] block max-w-full h-[250px] lg:h-[300px] object-cover text-xs"
+                  src="https://res.cloudinary.com/dndntw861/image/upload/v1701355689/travels-ribbonsxp/355323738_1370952083476073_8953970342287564054_n_bmtnhk.jpg"
+                  class="w-full min-h-[1px] block max-w-full h-auto lg:h-[300px] object-cover text-xs"
                   alt="Discover travel deals and packages in your next holiday on RibbonsTravel
                      Compare and filter travel and tour packages and book with ease.
                      | www.travel.ribbonsxp.com | ribbonsxp
@@ -800,7 +939,7 @@
                 />
               </div>
 
-              <div class="w-full grid gap-4 p-4">
+               <div class="w-full grid gap-4 p-4 ">
                 <div class="flex justify-between pb-2 w-full h-6 items-center">
                   <div class="flex justify-center items-center -ml-1">
                     <div class="flex relative items-center" style="min-width: 106px">
@@ -817,9 +956,11 @@
                   <h2 class="text-black text-sm md:text-base font-black flex">
                     <span class="sm:max-w-[250px] sm:truncate inline-block"> Mauritius Package</span>
                   </h2>
+
+                  <h4 class="text-xs md:text-sm text-black font-normal deals-content">Direct Flight</h4>
                 </div>
 
-                <div class="flex h-10 flex-wrap w-full justify-start text-black">
+              <div class="flex h-10 flex-wrap w-full justify-start text-black">
                   <div class="inline-flex whitespace-nowrap items-center">
                     <span class="inline-flex"
                       ><span class="inline-flex whitespace-nowrap items-center"
@@ -861,7 +1002,7 @@
                 <div class="flex gap-3 items-center justify-between flex-wrap h-fit">
                   <h3 class="text-black text-sm md:text-base font-black">Per person sharing: from &#8358;2,890,600</h3>
                   <h3 class="text-black text-sm md:text-base font-black">Single Occupancy from &#8358;3,708,300</h3>
-                  <button
+                 <button
                     class="text-black bg-jr_lime text-center w-full px-3 py-[6px] rounded border border-transparent"
                   >
                     <span class="text-xs md:text-sm font-semibold"> View Deal </span>
@@ -879,8 +1020,8 @@
                 class="min-w-full text-black transition-all duration-300 ease-out bg-[#c7c7c7] flex items-center rounded-t-xl relative p-0 overflow-hidden shadow-[#00000033_0px_0px_4px_0px]"
               >
                 <img
-                  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b61779180390079.656a586e78a4b.jpg"
-                  class="w-full min-h-[1px] block max-w-full h-[250px] lg:h-[300px] object-cover text-xs"
+                  src="https://res.cloudinary.com/dndntw861/image/upload/v1701197509/travels-ribbonsxp/339334148_218606954096931_8701392827866020815_n.webp_b6rwop.jpg"
+                  class="w-full min-h-[1px] block max-w-full h-auto lg:h-[300px] object-cover text-xs"
                   alt="Discover travel deals and packages in your next holiday on RibbonsTravel
                   Compare and filter travel and tour packages and book with ease.
                   | www.travel.ribbonsxp.com | ribbonsxp
@@ -888,7 +1029,7 @@
                 />
               </div>
 
-              <div class="w-full grid gap-4 p-4">
+               <div class="w-full grid gap-4 p-4 ">
                 <div class="flex justify-between pb-2 w-full h-6 items-center">
                   <div class="flex justify-center items-center -ml-1">
                     <div class="flex relative items-center" style="min-width: 106px">
@@ -905,9 +1046,11 @@
                   <h2 class="text-black text-sm md:text-base font-black flex">
                     <span class="sm:max-w-[250px] sm:truncate inline-block">Trip to Morocco</span>
                   </h2>
+
+                  <h4 class="text-xs md:text-sm text-black font-normal deals-content">Single Getaway</h4>
                 </div>
 
-                <div class="flex h-10 flex-wrap w-full justify-start text-black">
+              <div class="flex h-10 flex-wrap w-full justify-start text-black">
                   <div class="inline-flex whitespace-nowrap items-center">
                     <span class="inline-flex"
                       ><span class="inline-flex whitespace-nowrap items-center"
@@ -950,7 +1093,7 @@
 
                 <div class="flex gap-3 items-center justify-between flex-wrap h-fit">
                   <h3 class="text-black text-sm md:text-base font-black">Total cost: from &#8358;1,450,000</h3>
-                  <button
+                 <button
                     class="text-black bg-jr_lime text-center w-full px-3 py-[6px] rounded border border-transparent"
                   >
                     <span class="text-xs md:text-sm font-semibold"> View Deal </span>
@@ -968,8 +1111,8 @@
                 class="min-w-full text-black transition-all duration-300 ease-out bg-[#c7c7c7] flex items-center rounded-t-xl relative p-0 overflow-hidden shadow-[#00000033_0px_0px_4px_0px]"
               >
                 <img
-                  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/467081180390079.656a586e74e7d.jpg"
-                  class="w-full min-h-[1px] block max-w-full h-[250px] lg:h-[300px] object-cover text-xs"
+                  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/8a1c92180390079.656658c7ef659.jpeg"
+                  class="w-full min-h-[1px] block max-w-full h-auto lg:h-[300px] object-cover text-xs"
                   alt="Discover travel deals and packages in your next holiday on RibbonsTravel
                   Compare and filter travel and tour packages and book with ease.
                   | www.travel.ribbonsxp.com | ribbonsxp
@@ -977,7 +1120,7 @@
                 />
               </div>
 
-              <div class="w-full grid gap-4 p-4">
+               <div class="w-full grid gap-4 p-4 ">
                 <div class="flex justify-between pb-2 w-full h-6 items-center">
                   <div class="flex justify-center items-center -ml-1">
                     <div class="flex relative items-center" style="min-width: 106px">
@@ -996,9 +1139,11 @@
                       >Embark on an Epic 3-in-1 Adventure in Namibia!
                     </span>
                   </h2>
+
+                  <h4 class="text-xs md:text-sm text-black font-normal deals-content">Single Getaway</h4>
                 </div>
 
-                <div class="flex h-10 flex-wrap w-full justify-start text-black">
+              <div class="flex h-10 flex-wrap w-full justify-start text-black">
                   <div class="inline-flex whitespace-nowrap items-center">
                     <span class="inline-flex"
                       ><span class="inline-flex whitespace-nowrap items-center"
@@ -1041,7 +1186,7 @@
                 <div class="flex gap-3 items-center justify-between flex-wrap h-fit">
                   <h3 class="text-black text-sm md:text-base font-black">Experiences cost: &#8358;200,000</h3>
                   <h3 class="text-black text-sm md:text-base font-black">Flight cost: from &#8358;300,000</h3>
-                  <button
+                 <button
                     class="text-black bg-jr_lime text-center w-full px-3 py-[6px] rounded border border-transparent"
                   >
                     <span class="text-xs md:text-sm font-semibold"> View Deal </span>
@@ -1059,8 +1204,8 @@
                 class="min-w-full text-black transition-all duration-300 ease-out bg-[#c7c7c7] flex items-center rounded-t-xl relative p-0 overflow-hidden shadow-[#00000033_0px_0px_4px_0px]"
               >
                 <img
-                  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/4fef25180390079.656a586e765ff.jpg"
-                  class="w-full min-h-[1px] block max-w-full h-[250px] lg:h-[300px] object-cover text-xs"
+                  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f855e4180390079.655fde31df1c2.jpeg"
+                  class="w-full min-h-[1px] block max-w-full h-auto lg:h-[300px] object-cover text-xs"
                   alt="Discover travel deals and packages in your next holiday on RibbonsTravel
                   Compare and filter travel and tour packages and book with ease.
                   | www.travel.ribbonsxp.com | ribbonsxp
@@ -1068,7 +1213,7 @@
                 />
               </div>
 
-              <div class="w-full grid gap-4 p-4">
+               <div class="w-full grid gap-4 p-4 ">
                 <div class="flex justify-between pb-2 w-full h-6 items-center">
                   <div class="flex justify-center items-center -ml-1">
                     <div class="flex relative items-center" style="min-width: 106px">
@@ -1087,9 +1232,11 @@
                       >THE BEST OF LAKE KIVU BEACH - HOTSPRING- KAYAKING</span
                     >
                   </h2>
+
+                  <h4 class="text-xs md:text-sm text-black font-normal deals-content">Single Getaway</h4>
                 </div>
 
-                <div class="flex h-10 flex-wrap w-full justify-start text-black">
+              <div class="flex h-10 flex-wrap w-full justify-start text-black">
                   <div class="inline-flex whitespace-nowrap items-center">
                     <span class="inline-flex"
                       ><span class="inline-flex whitespace-nowrap items-center"
@@ -1133,7 +1280,7 @@
                 <div class="flex gap-3 items-center justify-between flex-wrap h-fit">
                   <h3 class="text-black text-sm md:text-base font-black">Experiences cost: &#8358;200,000</h3>
                   <h3 class="text-black text-sm md:text-base font-black">Flight cost: from &#8358;300,000</h3>
-                  <button
+                 <button
                     class="text-black bg-jr_lime text-center w-full px-3 py-[6px] rounded border border-transparent"
                   >
                     <span class="text-xs md:text-sm font-semibold"> View Deal </span>
@@ -1151,8 +1298,8 @@
                 class="min-w-full text-black transition-all duration-300 ease-out bg-[#c7c7c7] flex items-center rounded-t-xl relative p-0 overflow-hidden shadow-[#00000033_0px_0px_4px_0px]"
               >
                 <img
-                  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/fe056b180390079.656a586e7b716.jpeg"
-                  class="w-full min-h-[1px] block max-w-full h-[250px] lg:h-[300px] object-cover text-xs"
+                  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/e8ec52180390079.655f952aef7d7.jpeg"
+                  class="w-full min-h-[1px] block max-w-full h-auto lg:h-[300px] object-cover text-xs"
                   alt="Discover travel deals and packages in your next holiday on RibbonsTravel
                   Compare and filter travel and tour packages and book with ease.
                   | www.travel.ribbonsxp.com | ribbonsxp
@@ -1160,7 +1307,7 @@
                 />
               </div>
 
-              <div class="w-full grid gap-4 p-4">
+               <div class="w-full grid gap-4 p-4 ">
                 <div class="flex justify-between pb-2 w-full h-6 items-center">
                   <div class="flex justify-center items-center -ml-1">
                     <div class="flex relative items-center" style="min-width: 106px">
@@ -1177,9 +1324,11 @@
                   <h2 class="text-black text-sm md:text-base font-black flex">
                     <span class="sm:max-w-[250px] sm:truncate inline-block">6 Nights in Seychelles </span>
                   </h2>
+
+                  <h4 class="text-xs md:text-sm text-black font-normal deals-content">Single Getaway</h4>
                 </div>
 
-                <div class="flex h-10 flex-wrap w-full justify-start text-black">
+              <div class="flex h-10 flex-wrap w-full justify-start text-black">
                   <div class="inline-flex whitespace-nowrap items-center">
                     <span class="inline-flex"
                       ><span class="inline-flex whitespace-nowrap items-center"
@@ -1219,7 +1368,7 @@
                 <div class="flex gap-3 items-center justify-between flex-wrap h-fit">
                   <h3 class="text-black text-sm md:text-base font-black">Experiences cost: &#8358;700,000</h3>
                   <h3 class="text-black text-sm md:text-base font-black">Flight cost: from &#8358;300,000</h3>
-                  <button
+                 <button
                     class="text-black bg-jr_lime text-center w-full px-3 py-[6px] rounded border border-transparent"
                   >
                     <span class="text-xs md:text-sm font-semibold"> View Deal </span>
@@ -1237,8 +1386,8 @@
                 class="min-w-full text-black transition-all duration-300 ease-out bg-[#c7c7c7] flex items-center rounded-t-xl relative p-0 overflow-hidden shadow-[#00000033_0px_0px_4px_0px]"
               >
                 <img
-                  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ad0015180390079.656a5890b66d3.jpg"
-                  class="w-full min-h-[1px] block max-w-full h-[250px] lg:h-[300px] object-cover text-xs"
+                  src="https://res.cloudinary.com/dndntw861/image/upload/v1701191394/travels-ribbonsxp/329394197_535971532020834_2355369771948508074_n_rv1wjj.jpg"
+                  class="w-full min-h-[1px] block max-w-full h-auto lg:h-[300px] object-cover text-xs"
                   alt="Discover travel deals and packages in your next holiday on RibbonsTravel
               Compare and filter travel and tour packages and book with ease.
               | www.travel.ribbonsxp.com | ribbonsxp
@@ -1246,7 +1395,7 @@
                 />
               </div>
 
-              <div class="w-full grid gap-4 p-4">
+               <div class="w-full grid gap-4 p-4 ">
                 <div class="flex justify-between pb-2 w-full h-6 items-center">
                   <div class="flex justify-center items-center -ml-1">
                     <div class="flex relative items-center" style="min-width: 106px">
@@ -1265,7 +1414,7 @@
                   </h2>
                 </div>
 
-                <div class="flex h-10 flex-wrap w-full justify-start text-black">
+              <div class="flex h-10 flex-wrap w-full justify-start text-black">
                   <div class="inline-flex whitespace-nowrap items-center">
                     <span class="inline-flex"
                       ><span class="inline-flex whitespace-nowrap items-center"
@@ -1313,7 +1462,7 @@
 
                 <div class="flex gap-3 items-center justify-between flex-wrap h-fit">
                   <h3 class="text-black text-sm md:text-base font-black">Total Cost: from &#8358;1,950,000</h3>
-                  <button
+                 <button
                     class="text-black bg-jr_lime text-center w-full px-3 py-[6px] rounded border border-transparent"
                   >
                     <span class="text-xs md:text-sm font-semibold"> View Deal </span>
@@ -1331,8 +1480,8 @@
                 class="min-w-full text-black transition-all duration-300 ease-out bg-[#c7c7c7] flex items-center rounded-t-xl relative p-0 overflow-hidden shadow-[#00000033_0px_0px_4px_0px]"
               >
                 <img
-                  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d24f61180390079.656a5890b7d90.jpg"
-                  class="w-full min-h-[1px] block max-w-full h-[250px] lg:h-[300px] object-cover text-xs"
+                  src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2c432b180390079.656658c7ee803.jpeg"
+                  class="w-full min-h-[1px] block max-w-full h-auto lg:h-[300px] object-cover text-xs"
                   alt="Discover travel deals and packages in your next holiday on RibbonsTravel
                 Compare and filter travel and tour packages and book with ease.
                 | www.travel.ribbonsxp.com | ribbonsxp
@@ -1340,7 +1489,7 @@
                 />
               </div>
 
-              <div class="w-full grid gap-4 p-4">
+               <div class="w-full grid gap-4 p-4 ">
                 <div class="flex justify-between pb-2 w-full h-6 items-center">
                   <div class="flex justify-center items-center -ml-1">
                     <div class="flex relative items-center" style="min-width: 106px">
@@ -1357,9 +1506,11 @@
                   <h2 class="text-black text-sm md:text-base font-black flex">
                     <span class="sm:max-w-[250px] sm:truncate inline-block">Zanzibar 6 Days Package</span>
                   </h2>
+
+                  <h4 class="text-xs md:text-sm text-black font-normal deals-content">Single Getaway</h4>
                 </div>
 
-                <div class="flex h-10 flex-wrap w-full justify-start text-black">
+              <div class="flex h-10 flex-wrap w-full justify-start text-black">
                   <div class="inline-flex whitespace-nowrap items-center">
                     <span class="inline-flex"
                       ><span class="inline-flex whitespace-nowrap items-center"
@@ -1400,7 +1551,7 @@
                 <div class="flex gap-3 items-center justify-between flex-wrap h-fit">
                   <h3 class="text-black text-sm md:text-base font-black">Experiences cost: &#8358;200,000</h3>
                   <h3 class="text-black text-sm md:text-base font-black">Flight cost: from &#8358;300,000</h3>
-                  <button
+                 <button
                     class="text-black bg-jr_lime text-center w-full px-3 py-[6px] rounded border border-transparent"
                   >
                     <span class="text-xs md:text-sm font-semibold"> View Deal </span>
@@ -1418,8 +1569,8 @@
                 class="min-w-full text-black transition-all duration-300 ease-out bg-[#c7c7c7] flex items-center rounded-t-xl relative p-0 overflow-hidden shadow-[#00000033_0px_0px_4px_0px]"
               >
                 <img
-                  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2afe50180390079.656a5890b7140.jpeg"
-                  class="w-full min-h-[1px] block max-w-full h-[250px] lg:h-[300px] object-cover text-xs"
+                  src="https://res.cloudinary.com/dndntw861/image/upload/v1701119876/travels-ribbonsxp/404013951_3574320139511001_8922703907438553771_n_kjzbk0.jpg"
+                  class="w-full min-h-[1px] block max-w-full h-auto lg:h-[300px] object-cover text-xs"
                   alt="Discover travel deals and packages in your next holiday on RibbonsTravel
                       Compare and filter travel and tour packages and book with ease.
                       | www.travel.ribbonsxp.com | ribbonsxp
@@ -1427,7 +1578,7 @@
                 />
               </div>
 
-              <div class="w-full grid gap-4 p-4">
+               <div class="w-full grid gap-4 p-4 ">
                 <div class="flex justify-between pb-2 w-full h-6 items-center">
                   <div class="flex justify-center items-center -ml-1">
                     <div class="flex relative items-center" style="min-width: 106px">
@@ -1444,9 +1595,11 @@
                   <h2 class="text-black text-sm md:text-base font-black flex">
                     <span class="sm:max-w-[250px] sm:truncate inline-block">Christmas in Uganda</span>
                   </h2>
+
+                  <h4 class="text-xs md:text-sm text-black font-normal deals-content">Single Getaway</h4>
                 </div>
 
-                <div class="flex h-10 flex-wrap w-full justify-start text-black">
+              <div class="flex h-10 flex-wrap w-full justify-start text-black">
                   <div class="inline-flex whitespace-nowrap items-center">
                     <span class="inline-flex"
                       ><span class="inline-flex whitespace-nowrap items-center"
@@ -1488,7 +1641,7 @@
                 <div class="flex gap-3 items-center justify-between flex-wrap h-fit">
                   <h3 class="text-black text-sm md:text-base font-black">Experiences cost: &#8358;200,000</h3>
                   <h3 class="text-black text-sm md:text-base font-black">Flight cost: from &#8358;300,000</h3>
-                  <button
+                 <button
                     class="text-black bg-jr_lime text-center w-full px-3 py-[6px] rounded border border-transparent"
                   >
                     <span class="text-xs md:text-sm font-semibold"> View Deal </span>
@@ -1498,6 +1651,124 @@
             </div>
           </div>
         </div>
+      </div>
+    </section>
+
+    <section class="py-10 md:py-16">
+      <div class="container">
+        <center>
+          <div class="mb-5 md:mb-10">
+            <h2 class="text-lg md:text-2xl lg:text-4xl font-bold">How it works</h2>
+          </div>
+
+          <br />
+
+          <div class="hidden md:grid items-center justify-center sm:grid-cols-3">
+            <div class="max-w-[18rem] mx-auto mb-7">
+              <div class="min-h-[1px] p-5 flex-auto">
+                <h6 class="text-sm md:text-base font-semibold uppercase mb-2 text-black">
+                  <span
+                    class="flex justify-center items-center h-16 w-16 rounded-[100%] bg-jr_deepLime text-white text-4xl"
+                  >
+                    1
+                  </span>
+                  <br />
+                  search
+                </h6>
+                <p class="font-medium text-jr_slateGray text-xs sm:text-sm md:text-base">
+                  search your next destination
+                </p>
+              </div>
+            </div>
+
+            <div class="max-w-[18rem] mx-auto mb-7">
+              <div class="min-h-[1px] p-5 flex-auto">
+                <h6 class="text-sm md:text-base font-semibold uppercase mb-2 text-black">
+                  <span
+                    class="flex justify-center items-center h-16 w-16 rounded-[100%] bg-jr_deepLime text-white text-4xl"
+                  >
+                    2
+                  </span>
+                  <br />
+                  signup
+                </h6>
+                <p class="font-medium text-jr_slateGray text-xs sm:text-sm md:text-base">
+                  create your account and decide your travel add-ons, make payment
+                </p>
+              </div>
+            </div>
+
+            <div class="max-w-[18rem] mx-auto mb-7">
+              <div class="min-h-[1px] p-5 flex-auto">
+                <h6 class="text-sm md:text-base font-semibold uppercase mb-2 text-black">
+                  <span
+                    class="flex justify-center items-center h-16 w-16 rounded-[100%] bg-jr_deepLime text-white text-4xl"
+                  >
+                    3
+                  </span>
+                  <br />
+                  enjoy
+                </h6>
+                <p class="font-medium text-jr_slateGray text-xs sm:text-sm md:text-base">
+                  Get notifications and reminders about your travel. On the day, board the plane and go enjoy yourself
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="owl-carousel how-it-works ribbonsxp-carousel owl-theme">
+            <div class="max-w-[18rem] mx-auto mb-7">
+              <div class="min-h-[1px] p-5 flex-auto">
+                <h6 class="text-sm md:text-base font-semibold uppercase mb-2 text-black">
+                  <span
+                    class="flex justify-center items-center h-16 w-16 rounded-[100%] bg-jr_deepLime text-white text-4xl"
+                  >
+                    1
+                  </span>
+                  <br />
+                  search
+                </h6>
+                <p class="font-medium text-jr_slateGray text-xs sm:text-sm md:text-base">
+                  search your next destination
+                </p>
+              </div>
+            </div>
+
+            <div class="max-w-[18rem] mx-auto mb-7">
+              <div class="min-h-[1px] p-5 flex-auto">
+                <h6 class="text-sm md:text-base font-semibold uppercase mb-2 text-black">
+                  <span
+                    class="flex justify-center items-center h-16 w-16 rounded-[100%] bg-jr_deepLime text-white text-4xl"
+                  >
+                    2
+                  </span>
+                  <br />
+                  signup
+                </h6>
+                <p class="font-medium text-jr_slateGray text-xs sm:text-sm md:text-base">
+                  create your account and decide your travel add-ons, make payment
+                </p>
+              </div>
+            </div>
+
+            <div class="max-w-[18rem] mx-auto mb-7">
+              <div class="min-h-[1px] p-5 flex-auto">
+                <h6 class="text-sm md:text-base font-semibold uppercase mb-2 text-black">
+                  <span
+                    class="flex justify-center items-center h-16 w-16 rounded-[100%] bg-jr_deepLime text-white text-4xl"
+                  >
+                    3
+                  </span>
+                  <br />
+                  enjoy
+                </h6>
+                <p class="font-medium text-jr_slateGray text-xs sm:text-sm md:text-base">
+                  Get notifications and reminders about your travel. On the day, board the plane and go enjoy yourself
+                </p>
+              </div>
+            </div>
+          </div>
+        </center>
       </div>
     </section>
 
@@ -1589,6 +1860,165 @@
                       <p class="font-medium text-jr_slateGray text-xs sm:text-sm">
                         Top-notch support is available at your fingertips.
                       </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="py-8 sm:py-14">
+      <div class="container">
+        <div class="flex relative flex-wrap lg:flex-nowrap">
+          <div class="w-full lg:w-[55%] hidden sm:flex relative">
+            <div class="p-[10px] flex relative w-full flex-wrap content-start">
+              <section class="w-full">
+                <div class="flex mx-auto relative">
+                  <div class="w-full lg:w-[43%] flex relative">
+                    <div class="p-[10px] flex relative w-full flex-wrap content-start">
+                      <div class="z-10 w-full text-center">
+                        <div>
+                          <img
+                            src="https://holidays.wakanow.com/wp-content/uploads/2023/10/follow-that-dream.jpg"
+                            class="object-center rounded-[200px] inline-block h-auto max-full align-middle"
+                            alt=""
+                          />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="w-full lg:w-[57%] flex relative">
+                    <div class="p-[10px] flex relative w-full flex-wrap content-start">
+                      <div class="z-10 w-auto max-w-full text-center">
+                        <div>
+                          <img
+                            src="https://holidays.wakanow.com/wp-content/uploads/2023/10/travel-rest-decor.jpg"
+                            class="object-center rounded-[200px] inline-block h-auto max-full align-middle"
+                            alt=""
+                          />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </section>
+              <div class="w-full absolute text-center left-0 -bottom-5 z-0">
+                <div>
+                  <img
+                    src="https://holidays.wakanow.com/wp-content/uploads/2023/10/vectoc-home8-bottom-right.png"
+                    class="inline-block h-auto max-full align-middle"
+                    alt=""
+                  />
+                </div>
+              </div>
+              <div class="w-full absolute text-center -left-20 -bottom-[100px] z-10">
+                <div class="pb-[120px] lg:pb-0">
+                  <img
+                    src="https://holidays.wakanow.com/wp-content/uploads/2023/10/avatars-client-img.png"
+                    class="inline-block h-auto max-full align-middle"
+                    alt=""
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="w-full lg:w-[45%] flex relative">
+            <div class="p-[10px] flex relative w-full flex-wrap content-start">
+              <div>
+                <div>
+                  <div class="mb-10">
+                    <h2 class="text-3xl md:text-4xl font-bold mb-4">We create Tours you'll love</h2>
+
+                    <p class="font-medium text-xs sm:text-sm mb-4">
+                      We take the best of what we've learned over our 15 years of experience as luxury travel agents,
+                      and bring it all together to create bespoke Holiday travel experiences, Tours and vacation
+                      packages in Nigeria that create memories to cherish forever.
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div>
+                <div>
+                  <div class="lg:mx-4">
+                    <div
+                      class="relative mb-5 flex items-center gap-5 rounded-lg py-5 px-9 bg-white border-l-2 border-l-jr_lime shadow-[0px_4px_60px_0px_#00000012]"
+                    >
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        xmlns:xlink="http://www.w3.org/1999/xlink"
+                        width="47"
+                        height="45"
+                        viewBox="0 0 47 45"
+                      >
+                        <image
+                          id="world"
+                          width="47"
+                          height="45"
+                          xlink:href="data:img/png;base64,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"
+                        ></image>
+                      </svg>
+                      <div>
+                        <h3 class="text-xl font-bold mb-1">Best Tours</h3>
+                        <p class="font-medium text-jr_slateGray text-xs sm:text-sm">
+                          A strict screening process ensures that we only offer the best tours and holiday packages
+                          available in Nigeria
+                        </p>
+                      </div>
+                    </div>
+
+                    <div
+                      class="relative md:ml-[30px] mb-5 flex items-center gap-5 rounded-lg py-5 px-9 bg-white border-l-2 border-l-jr_lime shadow-[0px_4px_60px_0px_#00000012]"
+                    >
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        xmlns:xlink="http://www.w3.org/1999/xlink"
+                        width="46"
+                        height="46"
+                        viewBox="0 0 46 46"
+                      >
+                        <image
+                          id="best-price"
+                          width="46"
+                          height="46"
+                          xlink:href="data:img/png;base64,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"
+                        ></image>
+                      </svg>
+                      <div>
+                        <h3 class="text-xl font-bold mb-1">Best Price Gurantee</h3>
+                        <p class="font-medium text-jr_slateGray text-xs sm:text-sm">
+                          We guarantee you the best prices on Vacation packages in Nigeria. Found a lower price? We will
+                          match.
+                        </p>
+                      </div>
+                    </div>
+
+                    <div
+                      class="relative md:ml-[10px] flex items-center gap-5 rounded-lg py-5 px-9 bg-white border-l-2 border-l-jr_lime shadow-[0px_4px_60px_0px_#00000012]"
+                    >
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        xmlns:xlink="http://www.w3.org/1999/xlink"
+                        width="46"
+                        height="46"
+                        viewBox="0 0 46 46"
+                      >
+                        <image
+                          id="customer-service"
+                          width="46"
+                          height="46"
+                          xlink:href="data:img/png;base64,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"
+                        ></image>
+                      </svg>
+                      <div>
+                        <h3 class="text-xl font-bold mb-1">Terms and Conditions</h3>
+                        <p class="font-medium text-jr_slateGray text-xs sm:text-sm">
+                          We understand how important flexibility is right now, just one click and it's done!
+                        </p>
+                      </div>
                     </div>
                   </div>
                 </div>
