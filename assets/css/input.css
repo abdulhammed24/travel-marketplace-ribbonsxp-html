@@ -32,29 +32,29 @@ html {
     }
     
     .active-navLink {
-        @apply border-b-jr_deepLime bg-[#e7e9de2b] rounded-t-lg text-jr_deepLime transition-all duration-500 ease-out
+        @apply border-b-jr_deepBlue bg-[#e7e9de2b] rounded-t-lg text-jr_deepBlue transition-all duration-500 ease-out
       }
 
 
     .primary-btn {
-        @apply w-auto border cursor-pointer flex justify-center items-center text-sm  font-bold sm:text-base border-jr_lime text-white bg-jr_lime rounded p-3 transition-all duration-200;
+        @apply w-auto border cursor-pointer flex justify-center items-center text-sm  font-bold sm:text-base border-jr_blue text-white bg-jr_blue rounded p-3 transition-all duration-200;
       }
     
       .secondary-btn {
-        @apply w-auto border cursor-pointer flex justify-center items-center text-sm  font-bold sm:text-base border-jr_slateGray text-jr_lime bg-white rounded p-3 transition-all duration-200;
+        @apply w-auto border cursor-pointer flex justify-center items-center text-sm  font-bold sm:text-base border-jr_slateGray text-jr_blue bg-white rounded p-3 transition-all duration-200;
       }
     
       .tertiary-btn {
-        @apply w-auto border cursor-pointer flex justify-center items-center text-sm  font-bold sm:text-base border-jr_lime text-jr_lime bg-white rounded p-3 transition-all duration-200;
+        @apply w-auto border cursor-pointer flex justify-center items-center text-sm  font-bold sm:text-base border-jr_blue text-jr_blue bg-white rounded p-3 transition-all duration-200;
       }
     
 
     .hero-btn {
-        @apply w-auto border cursor-pointer flex justify-center items-center text-sm  font-bold sm:text-base bg-white border-white text-jr_lime rounded p-3  transition-all duration-200
+        @apply w-auto border cursor-pointer flex justify-center items-center text-sm  font-bold sm:text-base bg-white border-white text-jr_blue rounded p-3  transition-all duration-200
     }
    
     .dropdown-content-list {
-        @apply text-sm font-semibold h-full text-white cursor-pointer capitalize flex flex-row items-center px-4 py-2 rounded-xl  bg-jr_lime 
+        @apply text-sm font-semibold h-full text-white cursor-pointer capitalize flex flex-row items-center px-4 py-2 rounded-xl  bg-jr_blue 
     }
   
 }
