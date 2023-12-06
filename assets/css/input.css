@@ -28,11 +28,11 @@ html {
     }
   
     .nav-links {
-        @apply px-4 py-1 text-base font-normal cursor-pointer [border-bottom:4px_solid_transparent] transition-all duration-300 ease-out
+        @apply px-4 py-1 text-xs sm:text-sm md:text-base font-normal cursor-pointer [border-bottom:4px_solid_transparent] transition-all duration-300 ease-out
     }
     
     .active-navLink {
-        @apply border-b-jr_deepBlue bg-[#e7e9de2b] rounded-t-lg text-jr_deepBlue transition-all duration-500 ease-out
+        @apply border-b-jr_deepBlue bg-[#a0a6862b] rounded-t-lg text-jr_blue transition-all duration-500 ease-out
       }
 
 
@@ -62,7 +62,7 @@ html {
 /* navbar  */
 
 .nav-links:not(.active-navLink):hover {
-    color: #bbea00;
+    color: #00a09a;
 }
 
 .mobile {
@@ -100,7 +100,7 @@ html {
     width: auto;
 }
 
-.travel-deals .owl-item img {
+.travel-deals .owl-item img, .popular-hotels .owl-item img {
     width: 100%;
 }
 
@@ -238,8 +238,6 @@ html {
         transform: translateY(80%);
     }
 }
-
-
 
  
 /* deals */
