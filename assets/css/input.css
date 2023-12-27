@@ -57,6 +57,10 @@ html {
         @apply text-sm font-semibold h-full text-white cursor-pointer capitalize flex flex-row items-center px-4 py-2 rounded-xl  bg-jr_blue 
     }
   
+
+    .flight-deals-btn {
+      @apply bg-jr_blue text-white text-center [padding:7px_19px_6px] text-sm inline-block w-full
+    }
 }
 
 /* navbar  */
@@ -262,3 +266,7 @@ html {
 }
 
 
+
+
+
+  
